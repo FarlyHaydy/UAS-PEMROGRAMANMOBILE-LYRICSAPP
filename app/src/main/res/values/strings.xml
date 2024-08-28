@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LyricsApp</string>
+    <string name="title_main">Song List</string>
+    <string name="title_detail">Lyrics Detail</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="retry">Retry</string>
+    <string name="lyric_image"/>
+
+    <!-- Tambahan untuk halaman favorit -->
+    <string name="title_favorites">Favorites</string>
+
+    <!-- Tambahan untuk tombol "Love" -->
+    <string name="love_button"> </string>
+    <string name="remove_favorite"> </string>
+    <string name="add_favorite">Add to Favorites</string>
+    <string name="delete_button"> </string>
+
+    <!-- Pesan notifikasi atau toast -->
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+</resources>

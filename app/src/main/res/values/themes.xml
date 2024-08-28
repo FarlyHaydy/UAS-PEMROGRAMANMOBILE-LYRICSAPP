@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.LyricsApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/love_button_color</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:windowBackground">@color/background_color</item>
+    </style>
+
+    <!-- Text appearance for title -->
+    <style name="TitleText">
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textColor">@color/title_color</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Text appearance for list items -->
+    <style name="ListItemText">
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textColor">@color/title_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Style for Love Button -->
+    <style name="LoveButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:backgroundTint">@color/love_button_color</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,6 @@
+Aplikasi ini menggunakan minimum sdk 26, yang dimana hanya mensupport
+android 8 keatas, jadi bisa di run di virtual device android 8 keatas
+
+<------------------------------------------------------------------------------------------>
+Untuk gambar pada album cover menggunakan image address atau link gambar di internet
+dikarenakan pada API yang digunakan tidak menampilkan gambar atau tidak menyediakan gambar
